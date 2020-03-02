@@ -1,0 +1,36 @@
+html{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+
+}
+
+body{
+	background: url(background.jpg) no-repeat center center fixed;
+	background-size: cover; 
+	
+}
+
+div{
+width: 50%;
+height: 1200px;
+margin: 0 auto;
+padding: 12px;
+border: 10px solid white;
+background: rgba(255,255,255,0.8);
+}
+
+h1{
+
+	color: #3399FF;
+}
+
+p{
+	color: #606060;
+	
+}
+
+img{
+	
+
+}
